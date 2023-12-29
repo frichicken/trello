@@ -1,5 +1,7 @@
+import Authentication from './pages/Authentication';
+
 function App() {
-    return <></>;
+    return <Authentication />;
 }
 
 export default App;
