@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import { AppleLogo, GoogleLogo, MicrosoftLogo, SlackLogo, TrelloLogo } from 'assets/icons';
+import { AppleLogo, GoogleLogo, MicrosoftLogo, SlackLogo, TrelloLogo } from './assets/icons';
 
 function SvgIcon({
     children,
